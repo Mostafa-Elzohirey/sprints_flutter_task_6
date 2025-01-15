@@ -1,16 +1,24 @@
 # sprints_flutter_task_6
 
-A new Flutter project.
+Fetch employee data using HTTP then Parse JSON responses and map them to model.
 
-## Getting Started
+## Task Content
 
-This project is a starting point for a Flutter application.
+this project contains a single screen the displays a list of employees with various details like:\
+Full Name\
+Age\
+Email\
+Contact Number\
+Salary\
+Date Of Birth\
+Address\
 
-A few resources to get you started if this is your first Flutter project:
+the data was fetched from the following [url](https://mocki.io/v1/283ba093-9bf9-42e4-8f28-d2538937f9ca).\
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+used packages:\
+[http](https://pub.dev/packages/http)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
